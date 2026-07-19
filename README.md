@@ -8,6 +8,10 @@ Hi 👋, I'm Abhishek Vishvakarma
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700"/>
+</p>
+
 🚀 AI/LLM Engineer | Full Stack Developer
 
 ────────────────────────────────────
