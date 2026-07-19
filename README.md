@@ -91,14 +91,14 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-K-Vishvakarma&theme=tokyo-night)
 
-![](https://komarev.com/ghpvc/?username=Abhishek-K-Vishvakarma&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-K-Vishvakarma)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhishek-vishvakarma-a55b45281)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://former-abhishek-portfolio.vercel.app)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](vishabhishek019@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishabhishek019@gmail.com)
 
 ────────────────────────────────────
 
