@@ -6,6 +6,8 @@ Hi 👋, I'm Abhishek Vishvakarma
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+LLM+Engineer;Full+Stack+Developer;Python+Developer;Building+AI+Applications;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 🚀 AI/LLM Engineer | Full Stack Developer
 
 ────────────────────────────────────
