@@ -91,6 +91,12 @@ Hi 👋, I'm Abhishek Vishvakarma
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-K-Vishvakarma&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-K-Vishvakarma&layout=compact&theme=tokyonight)
 
+## Streak
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Vishvakarma&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-K-Vishvakarma&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
