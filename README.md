@@ -32,7 +32,9 @@
 
 <p align="center">
 <a href="https://github.com/Abhishek-K-Vishvakarma"><img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
-<a href="https://www.linkedin.com/in/abhishek-vishvakarma-a55b45281"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/></a>
+<a href="https://www.linkedin.com/in/abhishek-vishvakarma-a55b45281">
+  <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00F7FF&cacheSeconds=0" />
+</a>
 <a href="https://former-abhishek-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
 <a href="mailto:vishabhishek019@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F2027?style=for-the-badge&logo=gmail&logoColor=00F7FF"/></a>
 </p>
@@ -73,9 +75,10 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Vishvakarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF&icon_color=00F7FF"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-K-Vishvakarma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/>
+<img height="170" src="https://github-readme-stats-xyz.vercel.app/api?username=Abhishek-K-Vishvakarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF&icon_color=00F7FF"/>
+<img height="170" src="https://github-readme-stats-xyz.vercel.app/api/top-langs/?username=Abhishek-K-Vishvakarma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/>
 </div>
+
 
 ## 🔥 GitHub Streak
 
@@ -89,8 +92,12 @@
 
 ## 🏆 GitHub Trophy
 
+<!-- <div align="center">
+<img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>
+</div> -->
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-K-Vishvakarma&theme=algolia&margin-w=10&margin-h=10&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=Abhishek-K-Vishvakarma&theme=algolia&margin-w=10&margin-h=10&column=7"/>
 </div>
 
 ---
@@ -98,11 +105,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-<a href="https://github.com/Abhishek-K-Vishvakarma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-K-Vishvakarma&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/></a>
-<a href="https://github.com/Abhishek-K-Vishvakarma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-K-Vishvakarma&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/></a>
+<a href="https://github.com/Abhishek-K-Vishvakarma/Abhishek-K-Vishvakarma"><img height="170" src="https://github-stats-extended.vercel.app/api/pin/?username=Abhishek-K-Vishvakarma&repo=Abhishek-K-Vishvakarma&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/></a>
+<a href="https://github.com/Abhishek-K-Vishvakarma/Abhishek-K-Vishvakarma"><img height="170" src="https://github-stats-extended.vercel.app/api/pin/?username=Abhishek-K-Vishvakarma&repo=Abhishek-K-Vishvakarma&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/></a>
 </div>
 
-> ✏️ Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repo names.
+> ✏️ Replace `Abhishek-K-Vishvakarma` / `Abhishek-K-Vishvakarma` with your actual repo names.
 
 ---
 
@@ -148,7 +155,7 @@
 <div align="center">
 
 ### 🎖 Holopin
-<img src="https://holopin.me/abhishek-k-vishvakarma" width="500"/>
+[![My Holopin badges](https://holopin.me/abhishekkvishvakarma)](https://holopin.io/@abhishekkvishvakarma)
 
 ### 🎵 Spotify *(optional — connect via spotify-github-profile)*
 <!-- <img src="https://novatorem-abhishek.vercel.app/api/spotify" width="400"/> -->
