@@ -1,4 +1,10 @@
-👋 Hi, I'm Abhishek Vishvakarma
+<h1 align="center">
+Hi 👋, I'm Abhishek Vishvakarma
+</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+LLM+Engineer;Full+Stack+Developer;Python+Developer;Building+AI+Applications;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 🚀 AI/LLM Engineer | Full Stack Developer
 
