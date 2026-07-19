@@ -1,20 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Abhishek Vishvakarma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00F7FF,100:2C5364&height=220&section=header&text=Abhishek%20Vishvakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20LLM%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
 
-### 🚀 AI/LLM Engineer • Full Stack Developer • Open Source Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+LLM+Engineer;Full+Stack+Developer;Python+Developer;Building+Generative+AI+Applications;LangChain+%7C+HuggingFace+%7C+OpenAI;Always+Learning+New+Things+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+LLM+Engineer;Full+Stack+Developer;Python+Developer;Building+Generative+AI+Applications;LangChain+%7C+HuggingFace+%7C+OpenAI;Always+Learning+New+Things+🚀" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Abhishek-K-Vishvakarma&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Abhishek-K-Vishvakarma&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
+<img src="https://raw.githubusercontent.com/Abhishek-K-Vishvakarma/Abhishek-K-Vishvakarma/output/snake.svg" alt="snake animation" width="100%"/>
+
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 💫 About Me
 
@@ -26,136 +24,115 @@
 - 💬 Ask me about **Python, JavaScript, React, Angular, FastAPI, LLMs**
 - 📫 **Email:** **vishabhishek019@gmail.com**
 
-<br>
+<br clear="right"/>
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-
-<a href="https://github.com/Abhishek-K-Vishvakarma">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhishek-vishvakarma-a55b45281">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://former-abhishek-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:vishabhishek019@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://github.com/Abhishek-K-Vishvakarma"><img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
+<a href="https://www.linkedin.com/in/abhishek-vishvakarma-a55b45281"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/></a>
+<a href="https://former-abhishek-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
+<a href="mailto:vishabhishek019@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F2027?style=for-the-badge&logo=gmail&logoColor=00F7FF"/></a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## 👨‍💻 Languages
+### 👨‍💻 Languages
+<p><img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp"/></p>
 
+### 🎨 Frontend
+<p><img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind"/></p>
+
+### ⚙ Backend
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/></p>
+
+### 🤖 AI / LLM Stack
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
-
+<img src="https://img.shields.io/badge/OpenAI-0F2027?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LangChain-0F2027?style=for-the-badge&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LangGraph-0F2027?style=for-the-badge&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/HuggingFace-0F2027?style=for-the-badge&logo=huggingface&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LLMs-0F2027?style=for-the-badge&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/RAG-0F2027?style=for-the-badge&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/AI%20Agents-0F2027?style=for-the-badge&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/CrewAI-0F2027?style=for-the-badge&logoColor=00F7FF"/>
 </p>
 
-## 🎨 Frontend
+### 🗄 Database
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/></p>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind"/>
-
-</p>
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-</p>
-
-## 🤖 AI / LLM
-
-<p>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-4CAF50?style=for-the-badge"/>
-
-</p>
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-
-</p>
-
-## ☁ DevOps & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-
-</p>
+### ☁ DevOps & Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,githubactions"/></p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Vishvakarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF&icon_color=00F7FF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-K-Vishvakarma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek-K-Vishvakarma&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 🔥 GitHub Streak
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-K-Vishvakarma&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Abhishek-K-Vishvakarma&theme=tokyonight&hide_border=true&background=0F2027&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+</div>
 
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-K-Vishvakarma&theme=tokyo-night&bg_color=0F2027&color=00F7FF&line=00F7FF&point=ffffff)](https://github.com/Abhishek-K-Vishvakarma)
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-K-Vishvakarma&theme=algolia&margin-w=10&margin-h=10&column=7"/>
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🚀 Featured Projects
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhishek-K-Vishvakarma&theme=tokyonight&hide_border=true"/>
-
+<a href="https://github.com/Abhishek-K-Vishvakarma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-K-Vishvakarma&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/></a>
+<a href="https://github.com/Abhishek-K-Vishvakarma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-K-Vishvakarma&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00F7FF"/></a>
 </div>
 
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-K-Vishvakarma&theme=tokyo-night)](https://github.com/Abhishek-K-Vishvakarma)
+> ✏️ Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repo names.
 
 ---
 
-# 🏆 GitHub Trophy
+## 📚 Currently Learning
 
-<div align="center">
+- ⚡ LangGraph — orchestrating multi-agent LLM workflows
+- 🤝 CrewAI — collaborative AI agents
+- 🛠 MLOps — deploying & monitoring ML/LLM systems
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-K-Vishvakarma&theme=algolia&margin-w=10&margin-h=10"/>
+## 📅 Roadmap
 
-</div>
+- [x] Master LangChain + RAG pipelines
+- [x] Build full-stack AI apps (React + FastAPI)
+- [ ] Ship a production multi-agent system with LangGraph
+- [ ] Contribute to a major open-source AI repo
+- [ ] Deploy an MLOps pipeline end-to-end
+
+## ⚡ Fun Facts
+
+- 🧩 I debug faster with a cup of chai in hand
+- 🌙 Most of my commits happen after midnight
+- 🎯 I enjoy turning research papers into working prototypes
 
 ---
 
-# 💭 Random Dev Quote
+## 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🚀 Generative AI
 - 🤖 AI Agents
@@ -170,8 +147,24 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🎖 Holopin
+<img src="https://holopin.me/abhishek-k-vishvakarma" width="500"/>
 
+### 🎵 Spotify *(optional — connect via spotify-github-profile)*
+<!-- <img src="https://novatorem-abhishek.vercel.app/api/spotify" width="400"/> -->
+
+### 💼 Portfolio
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=00F7FF)](https://former-abhishek-portfolio.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
 ### If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:00F7FF,100:0F2027&height=150&section=footer"/>
 
 </div>
